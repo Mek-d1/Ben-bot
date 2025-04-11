@@ -5,7 +5,7 @@ const path = require("path");
 //ALL GLOBAL
 global.ownername = process.env.OWNER_NAME || "NOTHING";
 global.owner = process.env.OWNER_NUMBER ? process.env.OWNER_NUMBER.split(",") : [] || "93744215959";
-global.packname = process.env.BOT_NAME || "BEN-BOT-V1";
+global.packname = process.env.BOT_NAME || "BEN-BOT-V2";
 global.author = process.env.OWNER_NAME || "NOTHING";
 global.channelChatId = process.env.CHANNEL_JID || "120363333589976873@newsletter";
 global.logo = process.env.LOGO_URL || "https://files.catbox.moe/vahb53.jpg";
@@ -48,7 +48,7 @@ global.chatbot = process.env.CHATBOT === "true";
 global.prefix = process.env.PREFIX || ".";
 global.sudo_user = process.env.SUDO_USERS ? process.env.SUDO_USERS.split(",") : ["+93744215959", "93730285765"];
 global.command = process.env.ALL_CMD || "1000+";
-global.version = process.env.VERSION || "V1";
+global.version = process.env.VERSION || "V2";
 global.autosavestatus = false;
 global.AUTOSTATUS_REACT = false;
 global.autoLikeReply = false;
