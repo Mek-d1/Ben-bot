@@ -40,6 +40,7 @@ global.autoTyping = process.env.AUTO_TYPING === "true";
 global.autoreact = process.env.AUTO_REACT === "true";
 global.autoupdate = process.env.AUTO_UPDATE === "true";
 global.autoViewStatus = process.env.AUTO_VIEW_STATUS === "true";
+global.autoblock = process.env.AUTO_BLOCK === "true";
 global.autobio = process.env.AUTO_BIO === "true";
 global.autoreply = process.env.AUTO_REPLY === "true";
 global.autoreplypr = process.env.AUTO_REPLYPR === "true";
