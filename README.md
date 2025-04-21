@@ -34,22 +34,8 @@
 - **ALL MENU UPDATED 🚀**
 - **AI,SEARCH MENU 🚀**
 - **ANTILINK 🚀**
-- **AUTOUPDATE 🚀**
-- **ANTILINKREMOVE 🚀**
 - **ANTILINKWARN 🚀**
 - **ANTIBOT 🚀**
-- **ANTIBOTREMOVE 🚀**
-- **ANTIBOTWARN 🚀**
-- **ANTIBAD 🚀**
-- **ANTIBADREMOVE 🚀**
-- **ANTIBADWARN 🚀**
-- **AUTOREPLY 🚀**
-- **AUTOREPLYPR 🚀**
-- **AUTOREPLYGC 🚀**
-- **ANTIFORWARD 🚀**
-- **ANTIFORWARDPR 🚀**
-- **VV 🚀**
-- **UPDATE 🚀**
 - © ***POWERD BY NOTHING***
 
 ---------
@@ -101,7 +87,7 @@
 <a href='https://dashboard.heroku.com/new?template=https://github.com/NOTHING-MD420/Ben-bot/tree/main' target="_blank"><img alt='Deploy on Heroku' src='https://img.shields.io/badge/Deploy%20on-Heroku-FF004D?style=for-the-badge&logo=heroku&logoColor=white'/></a>  
 </p>
 
-> Deploy on TaikDrove
+> Deploy on TalkDrove
 
 
 
@@ -125,14 +111,6 @@
 
    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-### <br>    ❖  FREE DEPLOY HOST.TALKDROVE BOT ❖
-
-<p align="center">
-<a href="https://host.talkdrove.com/share-bot/15"><img height= "35" title="Author" src="https://img.shields.io/badge/DEPLOY H.TALKDROVE-blue?style=for-the-badge&logo=render"></a>
-<p/> 
-    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
     
 ### 🟢 𝙎𝙐𝙋𝙋𝙊𝙍𝙏 𝙂𝙍𝙊𝙐𝙋 𝙇𝙄𝙉𝙆 🟢
 
