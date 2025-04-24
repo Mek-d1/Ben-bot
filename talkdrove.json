@@ -20,9 +20,9 @@
         "required": true
         
       },
-      "PUBLIC": {
-        "description": "Bot mode can be public, private, inbox or groups in small letters (for public true for private false)",
-        "value":"true",
+      "BOT_MODE": {
+        "description": "Bot mode can be public, private, inbox or groups in small letters (for public public for private private)",
+        "value":"public",
         "required": true
         
       },

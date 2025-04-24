@@ -47,6 +47,7 @@ global.autoreplypr = process.env.AUTO_REPLYPR === "true";
 global.autoreplygc = process.env.AUTO_REPLYGC === "true";
 global.chatbot = process.env.CHATBOT === "true";
 global.prefix = process.env.PREFIX || ".";
+global.mode = process.env.BOT_MODE || "public";
 global.sudo_user = process.env.SUDO_USERS ? process.env.SUDO_USERS.split(",") : ["+93744215959", "93730285765"];
 global.command = process.env.ALL_CMD || "1000+";
 global.version = process.env.VERSION || "V2";
