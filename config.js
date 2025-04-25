@@ -8,7 +8,7 @@ global.owner = process.env.OWNER_NUMBER ? process.env.OWNER_NUMBER.split(",") : 
 global.packname = process.env.BOT_NAME || "BEN-BOT-V2";
 global.author = process.env.OWNER_NAME || "NOTHING";
 global.channelChatId = process.env.CHANNEL_JID || "120363333589976873@newsletter";
-global.logo = process.env.LOGO_URL || "https://files.catbox.moe/vahb53.jpg";
+global.logo = process.env.LOGO_URL || "https://files.catbox.moe/y9ysty.jpg";
 global.bench = process.env.BEN_CHANNEL || "https://whatsapp.com/channel/0029Vasu3qP9RZAUkVkvSv32";
 global.benrepo = process.env.BEN_REPO || "https://github.com/NOTHING-MD420/Ben-bot";
 global.benrepodl = process.env.BEN_REPODL || "https://github.com/NOTHING-MD420/Ben-bot/archive/refs/heads/main.zip";
@@ -47,6 +47,7 @@ global.autoreplypr = process.env.AUTO_REPLYPR === "true";
 global.autoreplygc = process.env.AUTO_REPLYGC === "true";
 global.chatbot = process.env.CHATBOT === "true";
 global.prefix = process.env.PREFIX || ".";
+global.welcome = process.env.WELCOME === "true";
 global.mode = process.env.BOT_MODE || "public";
 global.sudo_user = process.env.SUDO_USERS ? process.env.SUDO_USERS.split(",") : ["+93744215959", "93730285765"];
 global.command = process.env.ALL_CMD || "1000+";
@@ -57,7 +58,6 @@ global.autostatusreply = process.env.AUTOSTATUS_REPLY === "true";
 global.autostatusmsg = process.env.AUTO_MSG_STATUS || "➺ʏᴏᴜʀ ꜱᴛᴀᴛᴜꜱ ᴊᴜꜱᴛ ɴᴏᴡ ꜱᴇᴇɴ ʙʏ ʙᴇɴ-ʙᴏᴛ";
 global.autosavestatus = false;
 global.autoLikeReply = false;
-global.welcome = false;
 global.LEVELUP = false;
 
 

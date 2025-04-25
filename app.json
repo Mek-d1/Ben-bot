@@ -19,8 +19,12 @@
       "value": "93744215959"
     },
     "BOT_MODE": {
-      "description": "Worktype of your bot. Use public or private. If it is private, then only the bot number can use it. If public, then everyone can use it add public or private",
+      "description": "Bot mode can be: public, private, inbox, or group (all lowercase). public: everyone can use the bot. private: only owner and bot itself. inbox: only in private chat by owner/bot. group: only in groups by users, but bot/owner can use it anywhere.",
       "value": "public"
+    },
+    "WELCOME": {
+      "description": "true for auto welcome future in group false for off",
+      "value": "false"
     },
     "ANTIBOT": {
       "description": "Set true to Automatically deletes bot commands sent by users and warns them To Enable put true and to disable put false (e.g, true)",

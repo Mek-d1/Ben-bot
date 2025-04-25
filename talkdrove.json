@@ -21,7 +21,7 @@
         
       },
       "BOT_MODE": {
-        "description": "Bot mode can be public, private, inbox or groups in small letters (for public public for private private)",
+        "description": "Bot mode can be: public, private, inbox, or group (all lowercase). public: everyone can use the bot. private: only owner and bot itself. inbox: only in private chat by owner/bot. group: only in groups by users, but bot/owner can use it anywhere.",
         "value":"public",
         "required": true
         
@@ -29,6 +29,12 @@
       "OWNER_NUMBER": {
         "description": "OWNER_NUMBER with country code (e.g, 9230723xxxxx,93730275765)",
         "value":"923072380xxxx",
+        "required": true
+        
+      },
+      "WELCOME": {
+        "description": "true for auto welcome future in group false for off",
+        "value":"false",
         "required": true
         
       },
