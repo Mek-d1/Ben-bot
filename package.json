@@ -9,10 +9,6 @@
     "stop": "pm2 stop BEN-BOT",
     "restart": "pm2 restart BEN-BOT"
   },
-  "engines": {
-    "node": "16.x",
-    "npm": "8.x"
-  },
   "keywords": [
     "whiskeysockets",
     "multi-device"
@@ -20,9 +16,9 @@
   "author": "Nothing",
   "license": "MIT",
   "dependencies": {
-    "@whiskeysockets/baileys": "npm:asitha-baliyes-new",
-    "@adiwajshing/baileys": "npm:@whiskeysockets/baileys",
-    "@adiwajshing/keyed-db": "^0.2.4",
+    "@adiwajshing/baileys": "npm:@whiskeysockets/baileys@^6.7.7",
+    "@whiskeysockets/baileys": "^6.7.7",
+    "awesome-phonenumber": "^6.4.0",
     "aws4": "^1.12.0",
     "axios": "^1.6.7",
     "pornhub.js": "^1.13.0",
@@ -34,11 +30,11 @@
     "cfonts": "^3.2.0",
     "chalk": "^4.1.2",
     "check-disk-space": "^3.3.1",
-    "@hapi/boom": "^10.0.1",
-    "awesome-phonenumber": "^6.4.0",
-    "@vitalets/google-translate-api": "^8.0.0",
-    "@ffmpeg-installer/ffmpeg": "^1.1.0",
     "cheerio": "^1.0.0-rc.12",
+    "@adiwajshing/keyed-db": "^0.2.4",
+    "@ffmpeg-installer/ffmpeg": "^1.1.0",
+    "@hapi/boom": "^10.0.1",
+    "@vitalets/google-translate-api": "^8.0.0",
     "child_process": "^1.0.2",
     "colors": "^1.4.0",
     "cookie": "^0.6.0",
@@ -54,7 +50,7 @@
     "greetify": "^2.0.1",
     "https-proxy-agent": "^7.0.4",
     "human-readable": "^0.2.1",
-    "jimp": "^0.22.12",
+    "jimp": "^0.16.1",
     "javascript-obfuscator": "^4.1.1",
     "lodash": "latest",
     "lolcatjs": "^2.4.1",
