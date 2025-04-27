@@ -5,7 +5,7 @@ services:
     runtime: docker
     region: Frankfurt
     branch: V-3.00
-    repo: https://github.com/NOTHING-MD410/Ben-bot
+    repo: https://github.com/NOTHING-MD420/Ben-bot
     #buildCommand: |
     #  apt-get update && \
     #  apt-get install -y ffmpeg && \
