@@ -54,7 +54,7 @@
     "greetify": "^2.0.1",
     "https-proxy-agent": "^7.0.4",
     "human-readable": "^0.2.1",
-    "jimp": "^0.16.1",
+    "jimp": "^0.22.12",
     "javascript-obfuscator": "^4.1.1",
     "lodash": "latest",
     "lolcatjs": "^2.4.1",
