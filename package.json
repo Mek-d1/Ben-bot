@@ -5,7 +5,13 @@
   "main": "set.js",
   "type": "commonjs",
   "scripts": {
-    "start": "node set.js"
+    "start": "pm2 start set.js --name BEN-BOT",
+    "stop": "pm2 stop BEN-BOT",
+    "restart": "pm2 restart BEN-BOT"
+  },
+  "engines": {
+    "node": "16.x",
+    "npm": "8.x"
   },
   "keywords": [
     "whiskeysockets",
